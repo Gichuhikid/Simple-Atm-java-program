@@ -1,6 +1,6 @@
 /**
 * This program simulates a simple ATM environment.
-* ATM supports deposits, withdrawals, transfers, and balance inquiries.
+* ATM supports deposits, withdrawals and balance inquiries.
 * 
 * @version 0.1
 *
